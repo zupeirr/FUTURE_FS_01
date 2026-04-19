@@ -10,7 +10,7 @@ const _geist_mono = Geist_Mono({ subsets: ['latin'] });
 export const metadata: Metadata = {
     title: 'Professional Portfolio',
     description: 'Showing creative work and professional expertise',
-    generator: 'v0.app',,
+    generator: 'v0.app',
     icons: {
         icon: [
       {
