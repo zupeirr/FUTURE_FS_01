@@ -4,7 +4,7 @@ interface ContactFormData {
     name: string;
     email: string;
     subject: string;
-    messaage: string;
+    message: string;
 }
 
 // Simple in-memory storage for demo purposes
