@@ -51,7 +51,11 @@ export function Projects() {
             >
               <div className={`relative h-48 bg-gradient-to-br ${project.gradient} flex items-center justify-center text-6xl overflow-hidden`}>
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                <span className="relative group-hover:scale-110 transition-transform duration-300">{project.image}</span>
+                {project.image.startsWith('/') ? (
+                  <img src={project.image} alt={project.title} className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
+                ) : (
+                  <span className="relative group-hover:scale-110 transition-transform duration-300">{project.image}</span>
+                )}
               </div>
               
               <div className="p-8 space-y-5">
@@ -60,7 +64,7 @@ export function Projects() {
                     {project.title}
                   </h3>
                   <p className="text-foreground/60 text-sm leading-relaxed line-clamp-2">
-                    {project.description}
+                    {project.shortDesc}
                   </p>
                 </div>
 

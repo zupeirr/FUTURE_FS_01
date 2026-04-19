@@ -1,19 +1,19 @@
-# 🚀 Professional Developer Portfolio
+#  Professional Developer Portfolio
 
 Welcome to my professional portfolio website, designed to showcase my journey, expertise, and the digital solutions I create. Built with a focus on modern aesthetics (Glassmorphism), high performance, and exceptional user experience.
 
 ---
 
-## 📌 Project Information
+##  Project Information
 - **Developer:** [Suber Sulub](https://github.com/zupeirr)
 - **Project Name:** Modern Developer Portfolio
 - **Program:** Future Intern
-- **Task:** First Task – Building a Full-Stack Portfolio
+- **Task:** First Task – Building Portfolio
 - **CIN ID:** FIT/APR26/FS14947
 
 ---
 
-## ✨ Features
+##  Features
 - **Modern UI/UX:** Stunning dark-mode design with Glassmorphism effects and smooth transitions.
 - **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
 - **Dynamic Projects Section:** Interactive project cards with custom images and technology badges.
@@ -27,24 +27,21 @@ Welcome to my professional portfolio website, designed to showcase my journey, e
 
 ---
 
-## 🛠️ Technology Stack
-- **Framework:** [Next.js 15+](https://nextjs.org/) (App Router)
+---
+
+## Technology Stack
+
+###  Languages & Frameworks
+- **Languages:** [TypeScript](https://www.typescriptlang.org/), [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Framework:** [Next.js 15+](https://nextjs.org/) (App Router & Turbopack)
+- **Library:** [React 19](https://react.dev/)
+
+### Styling & UI
 - **Styling:** [Tailwind CSS 4.0](https://tailwindcss.com/)
 - **Icons:** [Lucide React](https://lucide.dev/)
-- **Components:** [Radix UI](https://www.radix-ui.com/) & [Shadcn/UI](https://ui.shadcn.com/)
-- **Animations:** Custom CSS Transitions & Tailwind Animate
-- **Fonts:** Geist & Geist Mono (Google Fonts)
 
----
 
-## 📂 Featured Projects
-1.  **E-Commerce Platform:** Full-stack grocery solution with Stripe integration.
-2.  **EthioRent Platform:** Premium real estate portal for the Ethiopian market.
-3.  **Horn Fuel Station:** Comprehensive management system for fuel station operations.
-4.  **Real Estate Website:** Data-driven property listing platform.
-5.  **Student Management System (SMS):** Java-based backend management solution.
 
----
 
 ## 🚀 Getting Started
 
@@ -78,4 +75,4 @@ The application will be available at [http://localhost:3000](http://localhost:30
 
 ---
 
-Developed with ❤️ by Suber Sulub.
+
